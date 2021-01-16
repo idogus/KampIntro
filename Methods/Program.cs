@@ -15,7 +15,7 @@ namespace Methods
             {
                 Name = "Karpuz",
                 Price = 80,
-                Description = "Velimeşe Karpuzu"
+                Description = "Velimeşlldle Karpuzu"
             };
 
             Product[] products = new Product[] { apple, watermelon };
@@ -25,7 +25,6 @@ namespace Methods
                 Console.WriteLine(product.Name);
                 Console.WriteLine(product.Price);
                 Console.WriteLine(product.Description);
-                Console.WriteLine("=======================");
             }
         }
     }
