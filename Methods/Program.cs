@@ -25,7 +25,7 @@ namespace Methods
                 Console.WriteLine(product.Name);
                 Console.WriteLine(product.Price);
                 Console.WriteLine(product.Description);
-                Console.WriteLine("=================");
+                Console.WriteLine("================");
             }
         }
     }
