@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{F3FE9D98-CB9C-4CB1-8563-1421FAC34868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematic", "Mathematic\Mathematic.csproj", "{0A5B22A5-C27A-428F-A8EF-9ABCF601FF5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematic", "Mathematic\Mathematic.csproj", "{0A5B22A5-C27A-428F-A8EF-9ABCF601FF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceType", "ValueAndReferenceType\ValueAndReferenceType.csproj", "{49272903-A030-42F5-8048-E18CEC0EC17D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0A5B22A5-C27A-428F-A8EF-9ABCF601FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A5B22A5-C27A-428F-A8EF-9ABCF601FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A5B22A5-C27A-428F-A8EF-9ABCF601FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49272903-A030-42F5-8048-E18CEC0EC17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49272903-A030-42F5-8048-E18CEC0EC17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49272903-A030-42F5-8048-E18CEC0EC17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49272903-A030-42F5-8048-E18CEC0EC17D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
