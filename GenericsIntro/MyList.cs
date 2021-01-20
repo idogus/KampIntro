@@ -19,8 +19,7 @@ namespace GenericsIntro
             items = new T[items.Length + 1];
             for (int i = 0; i < tempArray.Length; i++)
                 items[i] = tempArray[i];
-
-            items[items.Length -1 ] = item;
+            items[items.Length - 1] = item;
         }
     }
 }
